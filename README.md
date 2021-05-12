@@ -48,3 +48,8 @@ conda install biopython
 新建一个3AminoDataBase文件夹，将生成的三肽文件放进去，然后在命令行界面运行checkLostAmino.py脚本即可
 
 命令： python checkLostAmino.py
+
+效果：
+
+![e9af6d409197498fc4202266f6b1e98](https://user-images.githubusercontent.com/54057111/117918239-464ff200-b31d-11eb-8452-0695039581da.png)
+
