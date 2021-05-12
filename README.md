@@ -51,5 +51,6 @@ conda install biopython
 
 效果：
 
-![e9af6d409197498fc4202266f6b1e98](https://user-images.githubusercontent.com/54057111/117918239-464ff200-b31d-11eb-8452-0695039581da.png)
+![e9af6d409197498fc4202266f6b1e98](https://user-images.githubusercontent.com/54057111/117918326-62ec2a00-b31d-11eb-9a3f-090ceed3ba6a.png)
+
 
