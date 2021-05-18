@@ -17,14 +17,14 @@ conda install biopython
 
 # 使用方法
 
-1. 在脚本目录内创建一个data文件，里面放入pdb文件，用于做数据库
+## 1. 在脚本目录内创建一个data文件，里面放入pdb文件，用于做数据库
 
 ![45b4a75d2466f35b9dd3a6ffe4ccb61](https://user-images.githubusercontent.com/54057111/117917458-bc535980-b31b-11eb-9987-39b1f0942d8f.png)
 ![e14427820e7994001df8eecedad9b5e](https://user-images.githubusercontent.com/54057111/117917863-911d3a00-b31c-11eb-9f2b-9b43fe4edec7.png)
 
 
 
-2. 在命令行界面输入命令：
+## 2. 在命令行界面输入命令：
 
 命令： python 3AminoCsvCreator.py
 
@@ -42,7 +42,7 @@ conda install biopython
 
 三肽已经加氢。
 
-3. 检查有无遗漏的三肽文件：
+## 3. 检查有无遗漏的三肽文件：
 
 在这里提供了checkLostAmino.py脚本用于检查有无遗漏的三肽，理论上来讲，生成的三肽总数是有8000个文件
 
