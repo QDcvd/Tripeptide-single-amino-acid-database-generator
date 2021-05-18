@@ -1,5 +1,6 @@
 # Tripeptide-single-amino-acid-database-generator
 A script to generate a tripeptide database. At present, the amino acids of tripeptides produced are not complete
+
 一个基于已有的PDB文件构建三肽数据库的脚本，生成的三肽均已经加氢。
 
 # 安装
